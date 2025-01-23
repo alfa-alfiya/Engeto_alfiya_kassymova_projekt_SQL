@@ -1,3 +1,4 @@
+-- @alfiya_kassymova 
 #1
 WITH trends AS
 (SELECT 
