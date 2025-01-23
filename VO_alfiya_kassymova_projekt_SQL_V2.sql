@@ -160,7 +160,7 @@ SELECT
 	, GDP
 	, difference_GDP
 FROM trends_gdp tg 
-WHERE difference_GDP > 0.02 -- zvolené číslo 2% (nejrvé jsem měla nárůst o 5%, 
+WHERE difference_GDP > 0.02 -- zvolené číslo 2% (nejprvé jsem měla nárůst o 5%, 
 										-- ale ve výsledku byly jen tři hodnoty, proto jsem si zvolila nárůst o 2% pro přesněkší analýzu)
 ;
 
