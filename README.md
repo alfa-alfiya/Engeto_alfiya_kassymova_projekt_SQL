@@ -21,7 +21,7 @@ Dále byla provedena dodatečná analýza (soubor VO_alfiya_kassymova..). Popis 
   - Podle provedené analýzy nebyl nalezen rok s nárůstem větším než 10 %.
     
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
-- Je záznamenána určita shoda růstu, ale přímá korelace není. Zadáním nebyla stanovena míra, podle které se určuje závislost. Tato analýza byla provedena s nárůstem HDP o 2 %. Analýza ukázala, že růst HDP o 2 % se jednoznačně neprojeví na růstu cen potravin a mezd. Některé potraviny se zdražily v průběhu let, kde nárůst HDP o 2 % zaznamenán nebyl. Proto výsledna odpověd je spiš NE, nelze jednoznáčně určit je li nárůst cen potravin a mezd byl spojen s nárůstem HDP v určitém období. 
+- Je záznamenána určita shoda růstu, ale přímá korelace není. Zadáním nebyla stanovena míra, podle které se určuje závislost. Tato analýza byla provedena s nárůstem HDP o 2 %. Analýza ukázala, že růst HDP o 2 % se jednoznačně neprojeví na růstu cen potravin a mezd. Některé potraviny se zdražily v průběhu let, kde nárůst HDP o 2 % zaznamenán nebyl. Proto výsledna odpověd je spíš NE, nelze jednoznačně určit je li nárůst cen potravin a mezd byl spojen s nárůstem HDP v určitém období. 
 
 
 
